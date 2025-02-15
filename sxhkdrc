@@ -26,17 +26,5 @@ XF86AudioRaiseVolume
 XF86AudioMute
     amixer set Master toggle
 
-super + space
+super + d
 	rofi -show drun
-
-super + v
-	st -e vim
-
-super + e
-	st -e yazi
-
-super + b
-	firefox
-
-super + a
-	arandr
